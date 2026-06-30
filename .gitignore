@@ -40,6 +40,9 @@ bun.lock
 Thumbs.db
 desktop.ini
 
+# ── Claude Code ────────────────────────────────────────
+.claude/settings.local.json
+
 # ── IDEs ───────────────────────────────────────────────
 .vscode/settings.json
 .idea/
