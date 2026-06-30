@@ -1,0 +1,6 @@
+@Helpr.API_HostAddress = http://localhost:5262
+
+GET {{Helpr.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

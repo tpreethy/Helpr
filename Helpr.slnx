@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Helpr.API/Helpr.API.csproj" />
+    <Project Path="src/Helpr.Core/Helpr.Core.csproj" />
+    <Project Path="src/Helpr.Infrastructure/Helpr.Infrastructure.csproj" />
+  </Folder>
+</Solution>
